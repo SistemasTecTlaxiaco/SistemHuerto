@@ -1,4 +1,4 @@
-# Sistem Huerto
+# Sistem Huerto ITT
 ## Proyecto en Web 3.0
 ### Integrantes del equipo:
 `Brisa Osorio Ramírez`
