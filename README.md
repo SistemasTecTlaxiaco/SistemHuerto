@@ -4,7 +4,7 @@
 `Brisa Osorio Ramírez`
 `Jazmín López Riveros`
 `Javier Noé Cruz España`
-`Yabin España Aparicio`
+### Yabin España Aparicio
 
 ```
 npm i -g near-shell
